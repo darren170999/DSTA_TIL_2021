@@ -1,3 +1,3 @@
 # DSTA_TIL_2021
 Old Hackathon Project. Not completely done by me.
-# Computer Vision, Image Classification and Speech Recognition.
+# Computer Vision, Image Classification.
